@@ -1,0 +1,9 @@
+[project]
+name = "play-to-earn-language-learning"
+description = "A blockchain-based language learning game where players earn tokens"
+authors = ["agadaisaac40@gmail.com"]
+telemetry = true
+cache_dir = "./.clarinet"
+
+[contracts.language-learning]
+path = "contracts/language-learning.clar"
